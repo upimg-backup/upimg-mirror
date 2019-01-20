@@ -1,0 +1,26 @@
+{
+  "name": "upimg",
+  "version": "0.1.8",
+  "description": "image upload api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metowolf/UpImg.git"
+  },
+  "author": "metowolf <i@i-meto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metowolf/UpImg/issues"
+  },
+  "dependencies": {
+    "file-type": "^10.7.0",
+    "form-data": "^2.3.3",
+    "got": "^9.5.1",
+    "read-chunk": "^3.0.0"
+  },
+  "keywords": [
+    "api",
+    "upload",
+    "images"
+  ]
+}
